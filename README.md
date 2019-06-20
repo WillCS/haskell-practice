@@ -7,3 +7,4 @@ know how not to do things.
 * Very inefficient Matrix Multiplication
     * Matrices are stored column-major
 * Semi-functional Complex Numbers
+* Working through Project Euler
